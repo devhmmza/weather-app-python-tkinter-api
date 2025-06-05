@@ -1,3 +1,4 @@
+#weather app (fetches Api to show real time weather ☁️)
 import tkinter as tk
 import requests
 from tkinter import messagebox
